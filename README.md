@@ -17,7 +17,7 @@ Iterative closest point algorithm with variations and optimizations for point cl
 
 ## Report
 
-![PDF](images/1.png)
+
 ![PDF](images/2.png)
 ![PDF](images/3.png)
 ![PDF](images/4.png)
