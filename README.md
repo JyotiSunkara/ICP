@@ -3,6 +3,8 @@ Iterative closest point algorithm with variations and optimizations for point cl
 
 ## Notebooks
 
+#### [Plotting Point Clouds](https://nbviewer.jupyter.org/github/JyotiSunkara/ICP/blob/master/Plotting%20Point%20Clouds.ipynb)
+
 #### [Iterative Closest Point Using Singular Value Decomposition](https://nbviewer.jupyter.org/github/JyotiSunkara/ICP/blob/master/Iterative%20Closest%20Point%20Using%20Singular%20Value%20Decomposition.ipynb)
 
 #### [Iterative Closest Point Using Non Linear Least Squares Approach: Point To Point](https://nbviewer.jupyter.org/github/JyotiSunkara/ICP/blob/master/Non%20Linear%20Squares%20Point%20To%20Point.ipynb)
